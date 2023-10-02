@@ -6,6 +6,7 @@ public class Main {
         System.out.println(" todday date is :" + new Date());
         System.out.println("this is new line for checking ");
 
+        System.out.println("new line added ");
     }
 
 }
